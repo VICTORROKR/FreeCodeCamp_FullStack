@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fundamentos_de_Bash/Construye_un_Boilerplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fundamentos_de_Bash/Construye_un_Boilerplate/rdb-alpha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL_y_PostgreSQL/Construir_una_base_de_datos_de_personajes_de_videojuegos/rdb-alpha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL_y_PostgreSQL/Construye_una_base_de_datos_de_cuerpos_celestes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL_y_PostgreSQL/Construye_una_base_de_datos_de_cuerpos_celestes/rdb-alpha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripting_Bash/Construye_cinco_programas/rdb-alpha" vcs="Git" />
+  </component>
+</project>
